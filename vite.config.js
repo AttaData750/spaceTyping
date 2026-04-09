@@ -5,6 +5,7 @@ export default defineConfig({
   plugins: [
     solidPlugin(), 
   ],
+  base:"/spaceTyping/",
   server: { 
     port: 5173
   },
