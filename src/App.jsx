@@ -16,7 +16,7 @@ function App() {
 
   return (
     <div style={styles.outer}>
-      <div style={styles.inner}>App eeeeeeeeeee</div>
+      <div style={styles.inner}>App kkkkkkkkkk</div>
     </div>
   )
 }
